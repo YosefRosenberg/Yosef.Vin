@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+.midsection {
+  text-align: center;
+}
+
+#search {
+  height: 40px;
+  width: 200px;
+  font-size: 15pt;
+}
+
+#answer {
+  font-size: 20pt;
+}
+
+#future {
+  height: 100px;
+  width: 100px;
+  font-size: 25pt;
+}
+
+p {
+  background-color: black;
+}
